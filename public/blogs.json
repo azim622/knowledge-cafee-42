@@ -1,0 +1,43 @@
+[
+    {
+        "id": "001",
+        "cover": "https://i.ibb.co.com/sKBQSTK/online-message-blog-chat-communication-envelop-graphic-icon-concept.jpg",
+        "title": "Exploring the Wonders of Space",
+        "author": "Sarah Thompson",
+        "author_img": "https://i.ibb.co.com/8j1p49X/boy1.png",
+        "posted_date": "2024-01-15",
+        "reading_time": "7 minutes",
+        "hashtags": ["#space", "#astronomy", "#science", "#discovery"]
+    },
+    {
+        "id": "002",
+        "cover": "https://i.ibb.co.com/fX3rV8c/cor.png",
+        "title": "The Art of Minimalist Living",
+        "author": "Jason Park",
+        "author_img": "https://i.ibb.co.com/vDd0D8H/boy2.jpg",
+        "posted_date": "2023-11-30",
+        "reading_time": "5 minutes",
+        "hashtags": ["#minimalism", "#lifestyle", "#simplicity", "#selfcare"]
+    },
+    {
+        "id": "003",
+        "cover": "https://i.ibb.co.com/f87w8Vf/pro.jpg",
+        "title": "10 Tips for Healthy Eating on a Budget",
+        "author": "Emily Rivera",
+        "author_img": "https://i.ibb.co.com/SVBp79P/girl1.jpg",
+        "posted_date": "2024-02-07",
+        "reading_time": "6 minutes",
+        "hashtags": ["#healthyeating", "#budget", "#nutrition", "#wellness"]
+    },
+    {
+        "id": "004",
+        "cover": "https://i.ibb.co.com/8r4Y0Ch/car-photo.jpg",
+        "title": "Mastering Remote Work: A Guide to Productivity",
+        "author": "Daniel Reed",
+        "author_img": "https://i.ibb.co.com/dMWBtLP/girl2.jpg",
+        "posted_date": "2023-12-18",
+        "reading_time": "8 minutes",
+        "hashtags": ["#remotework", "#productivity"]
+    }
+    
+]
